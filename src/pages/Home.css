@@ -1,0 +1,10 @@
+* {
+    padding: 2px;
+}
+
+.labels {
+    font-size: larger;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
